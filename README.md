@@ -23,8 +23,8 @@
 
 ## 🔗 Resources
 
-- [EU Commission - Digital Transport Forum](https://transport.ec.europa.eu/)
-- [eFTI Regulation 2020/1056]([https://eur-lex.europa.eu/](https://eur-lex.europa.eu/eli/reg/2020/1056/oj))
+- [EU Commission - Digital Transport and Logistics Forum (DTLF)](https://transport.ec.europa.eu/transport-themes/logistics-and-multimodal-transport/digital-transport-and-logistics-forum-dtlf_en)
+- [eFTI Regulation 2020/1056](https://eur-lex.europa.eu/eli/reg/2020/1056/oj)
 - [eFTI4EU](https://www.efti4eu.eu)
 - [eFTI4All](https://www.efti4all.eu)
 
